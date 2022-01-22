@@ -1,4 +1,5 @@
 # winutils
 Windows binaries for the Hadoop version
 
-The winutils in [cdarlint/winutils](https://github.com/cdarlint/winutils) are not available on my Windows 11 environment with a compatibility error message. I have rebuilt winutils for the x64 environment.These are built directly from the same git commits that were used to create the official ASF release.
+These are built directly from the same git commits that were used to create the official ASF release.
+The winutils binary of [cdarlint/winutils](https://github.com/cdarlint/winutils)  is not compatible with my Windows 11 environment. I have rebuilt winutils for the  Windows11 x64.
